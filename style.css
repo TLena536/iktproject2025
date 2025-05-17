@@ -1,0 +1,18 @@
+body{
+    background-image: url(hatter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+
+header{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    margin: 20px;
+}
